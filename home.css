@@ -1,0 +1,34 @@
+.main{
+    background:linear-gradient(red,yellow);
+    height: 100vh;
+    width: 2000px;
+}
+.leftbox img{
+    position:relative;
+    top: 100px;
+    left: 50px;
+}
+.rightbox{
+    position: relative;
+    bottom: 390px;
+    left:650px;
+ 
+}
+h1 span{
+    color: rgb(112, 47, 0);
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.rightbox p{
+    color: black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: justify;
+}
+.rightbox button{
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 15px;
+    background-color: red;
+
+}
